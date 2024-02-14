@@ -14,3 +14,9 @@ You do not need to call the function (it will be called by the automated test).
 def hello_world():
     return "Hello, World!"
 
+
+
+Updates Made by Yannick Nzekio as Part of the Homework Assignment 2.
+
+YPN
+

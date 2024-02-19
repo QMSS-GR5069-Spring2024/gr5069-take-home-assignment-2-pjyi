@@ -11,6 +11,10 @@ You do not need to call the function (it will be called by the automated test).
 
 """
 
+#Sam Gartenstein (sg4283) importing numpy
+
+import numpy as np
+
 def hello_world():
     return "Hello, World!"
 
